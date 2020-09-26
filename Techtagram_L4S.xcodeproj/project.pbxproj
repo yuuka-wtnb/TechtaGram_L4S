@@ -15,6 +15,8 @@
 		1A7FDF842518E3DC0077B3F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A7FDF822518E3DC0077B3F5 /* LaunchScreen.storyboard */; };
 		1A7FDF8F2518E3DD0077B3F5 /* Techtagram_L4STests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7FDF8E2518E3DD0077B3F5 /* Techtagram_L4STests.swift */; };
 		1A7FDF9A2518E3DD0077B3F5 /* Techtagram_L4SUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7FDF992518E3DD0077B3F5 /* Techtagram_L4SUITests.swift */; };
+		1A7FDFAC2518E73A0077B3F5 /* hana.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A7FDFAA2518E73A0077B3F5 /* hana.png */; };
+		1A7FDFAD2518E73A0077B3F5 /* onpu.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A7FDFAB2518E73A0077B3F5 /* onpu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		1A7FDF952518E3DD0077B3F5 /* Techtagram_L4SUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Techtagram_L4SUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A7FDF992518E3DD0077B3F5 /* Techtagram_L4SUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Techtagram_L4SUITests.swift; sourceTree = "<group>"; };
 		1A7FDF9B2518E3DD0077B3F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A7FDFAA2518E73A0077B3F5 /* hana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hana.png; sourceTree = "<group>"; };
+		1A7FDFAB2518E73A0077B3F5 /* onpu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onpu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				1A7FDF7D2518E3DB0077B3F5 /* Main.storyboard */,
 				1A7FDF802518E3DC0077B3F5 /* Assets.xcassets */,
 				1A7FDF822518E3DC0077B3F5 /* LaunchScreen.storyboard */,
+				1A7FDFAA2518E73A0077B3F5 /* hana.png */,
+				1A7FDFAB2518E73A0077B3F5 /* onpu.png */,
 				1A7FDF852518E3DC0077B3F5 /* Info.plist */,
 			);
 			path = Techtagram_L4S;
@@ -232,8 +238,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A7FDF842518E3DC0077B3F5 /* LaunchScreen.storyboard in Resources */,
+				1A7FDFAD2518E73A0077B3F5 /* onpu.png in Resources */,
 				1A7FDF812518E3DC0077B3F5 /* Assets.xcassets in Resources */,
 				1A7FDF7F2518E3DB0077B3F5 /* Main.storyboard in Resources */,
+				1A7FDFAC2518E73A0077B3F5 /* hana.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
